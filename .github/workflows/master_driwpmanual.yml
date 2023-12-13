@@ -63,4 +63,4 @@ jobs:
           app-name: 'driwpmanual'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A2C4AB70D0049528C3A16D917A774B6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0BAF19FB7B3F4FA39AAF62E233D876B9 }}
